@@ -1,0 +1,13 @@
+USE Master;
+DROP TABLE Member;
+DROP TABLE Alumnus;
+DROP TABLE Student;
+DROP TABLE Club;
+DROP TABLE [Group];
+DROP TABLE Project;
+DROP TABLE EmploymentPeriod;
+DROP TABLE AlumnusWorksEmploymentPeriod;
+DROP TABLE MemberLeadsClub;
+DROP TABLE MemberGroup;
+DROP TABLE MemberWorksProject;
+DROP TABLE MemberGroupEvents;
